@@ -1,5 +1,5 @@
 # vue_shop
-
+# vue 结合elementui的后台管理系统
 ## Project setup
 ```
 npm install
